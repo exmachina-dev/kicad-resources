@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LY2-D-DCx
+D Power relay, 2 poles, with diode for coil
+K Relay
+F https://www.ia.omron.com/data_pdf/cat/ly_ds_e_4_7_csm54.pdf?id=949
+$ENDCMP
+#
+#End Doc Library

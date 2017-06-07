@@ -1,0 +1,18 @@
+(module EXM-LOGO-BASELINE (layer F.Cu) (tedit 59365B95)
+  (descr "ExMachina logo")
+  (fp_text reference T3 (at -3 6) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value EXMACHINA-LOGO-NAME (at 4 4) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -1 0) (end 1 0) (layer F.SilkS) (width 0.001))
+  (fp_poly (pts (xy 2.651759 -0.027941) (xy 1.338581 2.461259) (xy -1.330959 2.453641) (xy -2.684781 -0.017781)
+    (xy -1.287781 -2.512059) (xy 1.338581 -2.5019) (xy 0.0254 -0.1016) (xy -1.287778 -2.512063)
+    (xy -0.124459 -0.066041) (xy -2.062481 -0.033019) (xy -0.121919 0.083819) (xy -0.535941 1.021078)
+    (xy -0.010156 0.121919) (xy 1.338584 2.458725) (xy 0.1016 0.048259)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy 1.6383 -2.5781) (xy 0.401319 -0.251459) (xy 2.839722 -0.327659)) (layer F.SilkS) (width 0))
+  (fp_text user ExMachina (at 3.81 -0.889 180) (layer F.SilkS)
+    (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify left bottom))
+  )
+)
