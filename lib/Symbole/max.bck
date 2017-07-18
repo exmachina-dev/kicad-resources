@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX13432EESD
+D RS485 transceiver, full duplex, dual supply, receiver/driver enable, 500kbps, SOIC-14 package
+K rs485 transceiver
+F https://datasheets.maximintegrated.com/en/ds/MAX13430E-MAX13433E.pdf
+$ENDCMP
+#
+$CMP MAX13433EESD
+D RS485 transceiver, full duplex, dual supply, receiver/driver enable, 16Mbps, SOIC-14 package
+K rs485 transceiver
+F https://datasheets.maximintegrated.com/en/ds/MAX13430E-MAX13433E.pdf
+$ENDCMP
+#
+$CMP MAX481
+D RS485 transceiver, full duplex, dual supply, receiver/driver enable, 500kbps, SOIC-14 package
+K rs485 transceiver
+F https://datasheets.maximintegrated.com/en/ds/MAX13430E-MAX13433E.pdf
+$ENDCMP
+#
+$CMP MAX489
+D RS485 transceiver, full duplex, dual supply, receiver/driver enable, 500kbps, SOIC-14 package
+K rs485 transceiver
+F https://datasheets.maximintegrated.com/en/ds/MAX13430E-MAX13433E.pdf
+$ENDCMP
+#
+#End Doc Library
